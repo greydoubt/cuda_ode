@@ -1,4 +1,4 @@
-#include "monte_carlo_integration.h"
+#include "monte_carlo_integration.cuh"
 #include <cmath>
 #include <cstdlib>
 #include <iostream>
